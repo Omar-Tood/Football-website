@@ -10,10 +10,10 @@ This website is dedicated to providing detailed information about football playe
 - **User Interactions:** Users can rate players, leave comments, and participate in discussions.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript (Frameworks like React or Vue.js can be mentioned if used)
+- **Frontend:** Next.js 14
 - **Backend:** Node.js, Express.js (or any other backend technology)
-- **Database:** MongoDB, SQL, etc. (depending on what you use)
-- **APIs:** External APIs for fetching player data (if any)
+- **Database:** MongoDB, prisma
+- **APIs:** football API
 
 ## Setup and Installation
 Provide instructions on how to set up and run the project locally. Include steps for:
